@@ -1,0 +1,62 @@
+
+fname:e:\ui\alltests.py
+line count::26
+total count:26
+fname:e:\ui\count_line.py
+line count::43
+total count:69
+fname:e:\ui\base\basepage.py
+line count::35
+total count:104
+fname:e:\ui\base\__init__.py
+line count::0
+total count:104
+fname:e:\ui\conf\loadconf.py
+line count::30
+total count:134
+fname:e:\ui\conf\read_conf.py
+line count::7
+total count:141
+fname:e:\ui\log\user_log.py
+line count::52
+total count:193
+fname:e:\ui\log\user_log02.py
+line count::7
+total count:200
+fname:e:\ui\log\use_log_new.py
+line count::16
+total count:216
+fname:e:\ui\log\use_log_pro.py
+line count::12
+total count:228
+fname:e:\ui\log\__init__.py
+line count::0
+total count:228
+fname:e:\ui\page\init.py
+line count::17
+total count:245
+fname:e:\ui\page\mail.py
+line count::26
+total count:271
+fname:e:\ui\page\wy.py
+line count::22
+total count:293
+fname:e:\ui\page\__init__.py
+line count::0
+total count:293
+fname:e:\ui\testcase\test_wy.py
+line count::20
+total count:313
+fname:e:\ui\testcase\__init__.py
+line count::0
+total count:313
+fname:e:\ui\utils\openxml.py
+line count::20
+total count:333
+fname:e:\ui\utils\__init__.py
+line count::0
+total count:333
+
+--------------------------------------
+total file count:19
+total line count:333

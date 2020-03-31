@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataDriven>
+    <url>http://email.163.com/</url>
+    <divText emailNull="请输入帐号" passwdNull="请输入密码"></divText>
+</DataDriven>
